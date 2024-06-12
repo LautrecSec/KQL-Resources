@@ -1,0 +1,2 @@
+# KQL-Resources
+KQL resources
